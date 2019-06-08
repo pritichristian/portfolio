@@ -87,15 +87,15 @@ ul li a
 .aboutp{
 	font-size: 45px;
 	font-weight: bold;
-	color:skyblue;
+	color:white;
 	text-align: center;
 }
 .aboutme{
-	color: skyblue;
+	color: white;
 }
 .vli{
 	height: 180px;
-	border-left: 3px solid skyblue;
+	border-left: 3px solid white;
 	position: relative;
 	margin-left: -3px;
 	left: 50%;
@@ -105,7 +105,7 @@ ul li a
 	text-align: justify;
 }
 .name{
-	color: skyblue;
+	color: white;
 	font-weight: bold;
 	font-size: 25px;
 	text-align: center;
