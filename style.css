@@ -188,7 +188,7 @@ input[type=submit]:hover{
 .container .box .icon{
 	width: 100%;
 	height: 100%;
-	background: #00171d;
+	background: white;
 	transition: 0.5s;
 }
 .container .box .icon .fa{
